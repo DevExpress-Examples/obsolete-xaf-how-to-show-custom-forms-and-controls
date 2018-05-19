@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<Views>
+		<DetailView Id="UIContainerObject_DetailView">
+			<Items IsNewNode="True">
+				<WebUIContainerViewItem Id="MyWebUIContainerViewItemId" Caption="MyWebUIContainerViewItemId" IsNewNode="True"/>
+			</Items>
+			<Layout IsNewNode="True">
+				<LayoutGroup Id="Main" Caption="MyWebUIContainerViewItemId" ShowCaption="False" CaptionLocation="Default" Direction="Vertical" Index="0" RelativeSize="100" IsNewNode="True">
+					<LayoutItem Id="MyWebUIContainerViewItemId" ShowCaption="False" CaptionLocation="Default" Index="0" RelativeSize="100" IsNewNode="True" />
+				</LayoutGroup>
+			</Layout>
+		</DetailView>
+	</Views>
+</Application>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<Application>
+	<NavigationItems IsNewNode="True">
+		<Item Id="Custom" IsNewNode="True" Index="0">
+			<Item Id="CustomModalForm" Caption="Custom modal form containing a custom user control" View="UIContainerObject_DetailView" Index="4" ImageName="Attention" IsNewNode="True" />
+			<Item Id="CustomNonModalForm" Caption="Custom non-modal form containing a custom user control" View="UIContainerObject_DetailView" Index="3" ImageName="Attention" IsNewNode="True" />
+			<Item Id="StandardEmbeddedFormWithCustomControl" Caption="Standard embedded form containing a custom user control" View="UIContainerObject_DetailView" Index="0" ImageName="Attention" IsNewNode="True" />
+			<Item Id="StandardModalFormWithCustomControl" Caption="Standard modal form containing a custom user control" View="UIContainerObject_DetailView" Index="2" ImageName="Attention" IsNewNode="True" />
+			<Item Id="StandardNonModalFormWithCustomControl" Caption="Standard non-modal form containing a custom user control" View="UIContainerObject_DetailView" Index="1" ImageName="Attention"  IsNewNode="True" />
+		</Item>
+	</NavigationItems>
+	<Views>
+		<DetailView Id="UIContainerObject_DetailView" AllowEdit="False" AllowNew="False" AllowDelete="False"/>
+	</Views>
+</Application>
+
