@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+    <SchemaModules>
+        <SchemaModule Name="SystemModule" Version="11.2.10.0" IsNewNode="True" />
+        <SchemaModule Name="SystemWindowsFormsModule" Version="11.2.10.0" IsNewNode="True" />
+    </SchemaModules>
+    <Views>
+        <DashboardView Id="StandardFormWithCustomUserControl">
+            <Items>
+                <CustomUserControlViewItem Id="CustomUserControlViewItem" ControlTypeName="E911.Module.Win.Controls.WinCustomUserControl" />
+            </Items>
+        </DashboardView>
+    </Views>
+</Application>

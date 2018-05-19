@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <SchemaModules>
+    <SchemaModule Name="SchedulerAspNetModule" Version="11.2.1.0" IsNewNode="True" />
+    <SchemaModule Name="SchedulerModuleBase" Version="11.2.1.0" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="11.2.10.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <DashboardView Id="StandardFormWithCustomUserControl">
+      <Items>
+        <CustomUserControlViewItem Id="CustomUserControlViewItem" UserControlPath="Controls/WebCustomUserControl.ascx" />
+      </Items>
+    </DashboardView>
+  </Views>
+</Application>
