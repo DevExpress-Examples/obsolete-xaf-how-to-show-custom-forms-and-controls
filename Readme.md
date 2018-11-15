@@ -1,3 +1,22 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [WebShowCustomFormWindowController.cs](./CS/E911.Module.Web/Controllers/WebShowCustomFormWindowController.cs) (VB: [WebShowCustomFormWindowController.vb](./VB/E911.Module.Web/Controllers/WebShowCustomFormWindowController.vb))
+* [WebCustomUserControlViewItem.cs](./CS/E911.Module.Web/Editors/WebCustomUserControlViewItem.cs) (VB: [WebCustomUserControlViewItem.vb](./VB/E911.Module.Web/Editors/WebCustomUserControlViewItem.vb))
+* [WebModuleEx.cs](./CS/E911.Module.Web/WebModuleEx.cs) (VB: [WebModuleEx.vb](./VB/E911.Module.Web/WebModuleEx.vb))
+* [WinShowCustomFormWindowController.cs](./CS/E911.Module.Win/Controllers/WinShowCustomFormWindowController.cs) (VB: [WinShowCustomFormWindowController.vb](./VB/E911.Module.Win/Controllers/WinShowCustomFormWindowController.vb))
+* [WinCustomUserControlViewItem.cs](./CS/E911.Module.Win/Editors/WinCustomUserControlViewItem.cs) (VB: [WinCustomUserControlViewItem.vb](./VB/E911.Module.Win/Editors/WinCustomUserControlViewItem.vb))
+* [WinModuleEx.cs](./CS/E911.Module.Win/WinModuleEx.cs) (VB: [WinModuleEx.vb](./VB/E911.Module.Win/WinModuleEx.vb))
+* **[ShowCustomFormWindowController.cs](./CS/E911.Module/Controllers/ShowCustomFormWindowController.cs) (VB: [ShowCustomFormWindowController.vb](./VB/E911.Module/Controllers/ShowCustomFormWindowController.vb))**
+* [CustomUserControlViewItem.cs](./CS/E911.Module/Editors/CustomUserControlViewItem.cs) (VB: [CustomUserControlViewItem.vb](./VB/E911.Module/Editors/CustomUserControlViewItem.vb))
+* [Model.DesignedDiffs.xafml](./CS/E911.Module/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/E911.Module/Model.DesignedDiffs.xafml))
+* [WebCustomForm.aspx.cs](./CS/E911.Web/Controls/WebCustomForm.aspx.cs) (VB: [WebCustomForm.aspx.vb](./VB/E911.Web/Controls/WebCustomForm.aspx.vb))
+* [WebCustomUserControl.ascx.cs](./CS/E911.Web/Controls/WebCustomUserControl.ascx.cs) (VB: [WebCustomUserControl.ascx.vb](./VB/E911.Web/Controls/WebCustomUserControl.ascx.vb))
+* [Model.xafml](./CS/E911.Web/Model.xafml) (VB: [Model.xafml](./VB/E911.Web/Model.xafml))
+* [WinCustomForm.cs](./CS/E911.Win/Controls/WinCustomForm.cs) (VB: [WinCustomForm.vb](./VB/E911.Win/Controls/WinCustomForm.vb))
+* [WinCustomUserControl.cs](./CS/E911.Win/Controls/WinCustomUserControl.cs) (VB: [WinCustomUserControl.vb](./VB/E911.Win/Controls/WinCustomUserControl.vb))
+* [Model.xafml](./CS/E911.Win/Model.xafml) (VB: [Model.xafml](./VB/E911.Win/Model.xafml))
+<!-- default file list end -->
 # OBSOLETE - How to show custom forms and controls in XAF (Example)
 
 
