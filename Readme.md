@@ -1,3 +1,16 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Model.DesignedDiffs.xafml](./CS/WinWebSolution.Module.Web/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/WinWebSolution.Module.Web/Model.DesignedDiffs.xafml))
+* [WebShowCustomFormWindowController.cs](./CS/WinWebSolution.Module.Web/WebShowCustomFormWindowController.cs) (VB: [WebShowCustomFormWindowController.vb](./VB/WinWebSolution.Module.Web/WebShowCustomFormWindowController.vb))
+* [WebUIContainerViewItem.cs](./CS/WinWebSolution.Module.Web/WebUIContainerViewItem.cs) (VB: [WebUIContainerViewItem.vb](./VB/WinWebSolution.Module.Web/WebUIContainerViewItem.vb))
+* [Model.DesignedDiffs.xafml](./CS/WinWebSolution.Module.Win/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/WinWebSolution.Module.Win/Model.DesignedDiffs.xafml))
+* [WinShowCustomFormWindowController.cs](./CS/WinWebSolution.Module.Win/WinShowCustomFormWindowController.cs) (VB: [WinShowCustomFormWindowController.vb](./VB/WinWebSolution.Module.Win/WinShowCustomFormWindowController.vb))
+* [WinUIContainerViewItem.cs](./CS/WinWebSolution.Module.Win/WinUIContainerViewItem.cs) (VB: [WinUIContainerViewItem.vb](./VB/WinWebSolution.Module.Win/WinUIContainerViewItem.vb))
+* [Model.DesignedDiffs.xafml](./CS/WinWebSolution.Module/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/WinWebSolution.Module/Model.DesignedDiffs.xafml))
+* **[ShowCustomFormWindowController.cs](./CS/WinWebSolution.Module/ShowCustomFormWindowController.cs) (VB: [ShowCustomFormWindowController.vb](./VB/WinWebSolution.Module/ShowCustomFormWindowController.vb))**
+* [UIContainerObject.cs](./CS/WinWebSolution.Module/UIContainerObject.cs) (VB: [UIContainerObject.vb](./VB/WinWebSolution.Module/UIContainerObject.vb))
+<!-- default file list end -->
 # OBSOLETE - How to show custom forms and controls in XAF (Example)
 
 
