@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<Tests xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Date="5/28/2013">
-  <Test Name="Sample" ApplicationName="E911.Win" Result="Passed" Elapsed="00:00:23.3814852" Started="5/28/2013 9:00:46 PM" MachineName="GARAVSKYDE-NB-S" IP="172.22.2.44" />
-  <Test Name="Sample" ApplicationName="E911.Web" Result="Passed" Elapsed="00:00:46.4864852" Started="5/28/2013 9:01:09 PM" MachineName="GARAVSKYDE-NB-S" IP="172.22.2.44" />
-</Tests>
